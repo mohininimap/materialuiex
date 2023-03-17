@@ -1,0 +1,22 @@
+MaterialUI=>
+->It design by Google
+->Resposive web pages
+->Component based library
+->Support additional css properties
+->Compaines used Material UI ->Spotify,Amazon,NASA,Netflix,unity,shutterstock 
+------------------
+Install material ui
+npm install @mui/material @emotion/react @emotion/styled
+Typography->Typography is used to add text on the webpage
+Different type of heading,paragraph
+---------
+Typography
+Button
+Textfield
+form
+onchange
+checkbox
+select
+{/* <Typography>Name is : {inputs.name}</Typography> */}
+------------
+Toolbar provides a structure for adding element

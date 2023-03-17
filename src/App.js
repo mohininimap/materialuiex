@@ -1,23 +1,20 @@
 import logo from './logo.svg';
 import './App.css';
-
+import Typographyex from './components/Typographyex';
+import Buttonex from './components/Buttonex';
+import Textfieldex from './components/Textfieldex';
+import Formex from './components/Formex';
+import Appbarex from './components/Appbarex';
+import Menuex from './components/Menuex';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    {/* <Typographyex/>
+<Buttonex/>
+<Textfieldex/> */}
+{/* <Formex/> */}
+{/* <Appbarex/> */}
+<Menuex/>
     </div>
   );
 }
