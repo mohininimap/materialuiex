@@ -20,3 +20,23 @@ select
 {/* <Typography>Name is : {inputs.name}</Typography> */}
 ------------
 Toolbar provides a structure for adding element
+------------
+Helps to swirch between different views and navigation
+Tabs is a container of child Tab
+----------------
+sort is apply on array not string
+----------------
+Card =>A surface that display content and actions on single topic.
+Can be Images,Text,Headings,Actions like a Blog Post.
+Have multiple components to complete a Card
+In card have a additional properties maxWidth
+------------
+Dialog->Dialog is a popup window which informs  something to the user
+-----------
+Modal is a pop up window that can be shown to the user
+open,onClose properties
+additional properties hideBackdrop,transition
+-----------
+List is a group of elements
+Child element he
+

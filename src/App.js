@@ -6,6 +6,11 @@ import Textfieldex from './components/Textfieldex';
 import Formex from './components/Formex';
 import Appbarex from './components/Appbarex';
 import Menuex from './components/Menuex';
+import Tabsex from './components/Tabsex';
+import Cardex from './components/Cardex';
+import Dialogueex from './components/Dialogueex';
+import Modalex from './components/Modalex';
+import Listitem from './components/Listitem';
 function App() {
   return (
     <div className="App">
@@ -14,7 +19,12 @@ function App() {
 <Textfieldex/> */}
 {/* <Formex/> */}
 {/* <Appbarex/> */}
-<Menuex/>
+{/* <Menuex/> */}
+{/* <Tabsex/> */}
+{/* <Cardex/> */}
+{/* <Dialogueex/> */}
+{/* <Modalex/> */}
+<Listitem/>
     </div>
   );
 }
